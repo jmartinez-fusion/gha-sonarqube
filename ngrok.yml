@@ -1,0 +1,9 @@
+version: 2
+tunnels:
+  sonar:
+    addr: http://sonar:9000
+    proto: http
+    schemes:
+      - https
+      - http
+    domain: 8f85-186-23-28-74.ngrok-free.app
